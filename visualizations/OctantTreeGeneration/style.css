@@ -1,0 +1,12 @@
+/*#color-field {
+	display: grid;
+}*/
+
+.bad-apply input {
+	border-color: red;
+}
+
+#color-field {
+	margin-top: 10px;
+	background-color: rgb(230, 230, 230);
+}
